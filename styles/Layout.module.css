@@ -1,0 +1,19 @@
+.navigation {
+    display: flex;
+    gap: 20px;
+    padding: 20px 10px;
+    background-color: rgb(127, 243, 127);
+}
+
+.navigation a {
+    text-decoration: none;
+    color: rgb(22, 61, 178);
+    font-size: 20px;
+    padding: 2px;
+    font-weight: bold;
+}
+
+.navigation a:hover {
+    color: rgb(22, 61, 178);
+    outline: 3px dashed rgb(22, 61, 178);
+}

@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Home App",
+      "mentor": "Aleš"
+    },
+    {
+      "id": 2,
+      "name": "Knowledge base app",
+      "mentor": "Aleš"
+    },
+    {
+      "id": 3,
+      "name": "Dungeons & Dragons",
+      "mentor": "Lukáš"
+    }
+  ],
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Aleš"
+    },
+    {
+      "id": 2,
+      "name": "David"
+    },
+    {
+      "id": 3,
+      "name": "Lukáš"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Martin Danko"
+    },
+    {
+      "id": 2,
+      "name": "Jan Dočekal"
+    },
+    {
+      "id": 3,
+      "name": "Petr Herynek"
+    },
+    {
+      "id": 4,
+      "name": "Michal Hladík"
+    },
+    {
+      "id": 5,
+      "name": "Maria Jakublakova"
+    },
+    {
+      "id": 6,
+      "name": "František Kašík"
+    },
+    {
+      "id": 7,
+      "name": "Lukáš Kolář"
+    },
+    {
+      "id": 8,
+      "name": "Adam Kubálek"
+    },
+    {
+      "id": 9,
+      "name": "Lucie Kubatova"
+    },
+    {
+      "id": 10,
+      "name": "Daniel Müller"
+    },
+    {
+      "id": 11,
+      "name": "Dominik Pracna"
+    },
+    {
+      "id": 12,
+      "name": "Jakub Strakoš"
+    },
+    {
+      "id": 13,
+      "name": "Jakub Stündl"
+    },
+    {
+      "id": 14,
+      "name": "Hoang Ta"
+    }
+  ]
+}

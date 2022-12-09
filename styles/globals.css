@@ -1,26 +1,38 @@
-html,
-body {
+* {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#__next {
+  width: 80vw;
+  margin: auto;
+}
+
+main {
+  padding: 5px 10px;
+}
+
+main h1 {
+  text-align: center;
+  margin: 15px 0;
 }
 
 a {
-  color: inherit;
   text-decoration: none;
+  color: gray;
+  display: block;
+  margin: 3px 0;
+  font-size: 20px;
 }
 
-* {
-  box-sizing: border-box;
+a:hover {
+  color: black;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+h2 {
+  font-size: 36px;
+  text-decoration: underline;
+  text-transform: uppercase;
 }
